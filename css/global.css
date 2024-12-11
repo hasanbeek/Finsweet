@@ -205,7 +205,7 @@ main {
 
 .footer-divider {
   width: 100%;
-  max-width:268px;
+  
   border:1px solid 
   #000000;
   opacity: 0.1;
@@ -272,7 +272,7 @@ img .image-shape{
 
 .nav-footer{
   width: 100%;
-  max-width: 1600px;
+  
   background-color:#ffe6d2;
   height: 80px;
 }
