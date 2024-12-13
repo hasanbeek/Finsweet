@@ -1,0 +1,61 @@
+@import "../../css/global.css";
+
+
+.maintitle {
+  width: 100%;
+  max-width: 1227px;
+  height: 138px;
+  background-image: url(./image/Shape\ \(1\).png), url(./image/Shape.png);
+  background-repeat: no-repeat, no-repeat;
+  background-position: top left, right top;
+  margin-top: 96px;
+  margin-bottom: 72px;
+ 
+}
+.title {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  width: 620px;
+  height: 58px;
+}
+.litle-title {
+  font-weight: 400;
+  font-size: 16px;
+  line-height:24px;
+  opacity: 60%;
+  margin-top: 8px;
+}
+.main-content {
+  width: 1280px;
+  height: 1280px;
+  background-color: #ecf8f9;
+  padding: 96px 218px 96px 221px;
+  
+}
+.main-content-title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height:54px;
+  color: #232536;
+}
+.main-content-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding-top: 24px;
+}
+.maint-content-title2 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height:36px;
+  margin-top: 40px;
+}
+
+.main-content-description1 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding-top: 16px;
+}
+
